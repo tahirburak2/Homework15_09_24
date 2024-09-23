@@ -11,8 +11,8 @@ class Program
 {
   static void Main(string[] args)
   {
-    //    Lion lion1=new("aslan kıral",23,"yeleli");
-    //    lion1.MakeSound();
+       Lion lion1=new("alperen ",2,"galatasaraylı");
+       lion1.MakeSound();
     //   Product product1=new Product("samet",5,345);
     //   product1.CheckStock();
     //   product1.UpdateStock();
@@ -31,8 +31,8 @@ class Program
     //       Manager manager=new Manager("Beyza",6161,100000,5);
 
     // manager.Bilgilendirme();
-    Library library = new Library("ölüm", "burak", 345, 043287);
+    // Library library = new Library("ölüm", "burak", 345, 043287);
 
-    library.Borrow();
+    // library.Borrow();
   }
 }

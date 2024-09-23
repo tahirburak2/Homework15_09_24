@@ -12,3 +12,4 @@
 /Users/tahirburakavar/Desktop/Homework15_09_24/Oop Homeworks/obj/Debug/net8.0/Oop Homeworks.pdb
 /Users/tahirburakavar/Desktop/Homework15_09_24/Oop Homeworks/obj/Debug/net8.0/Oop Homeworks.genruntimeconfig.cache
 /Users/tahirburakavar/Desktop/Homework15_09_24/Oop Homeworks/obj/Debug/net8.0/ref/Oop Homeworks.dll
+/Users/tahirburakavar/Desktop/Homework15_09_24/Oop Homeworks/obj/Debug/net8.0/Oop Homeworks.sourcelink.json
